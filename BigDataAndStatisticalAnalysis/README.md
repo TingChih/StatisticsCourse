@@ -1,1 +1,1 @@
-# Big Data AndStatistical Analysis Assignments
+# Big Data and Statistical Analysis Assignments
