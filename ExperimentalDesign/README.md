@@ -1,4 +1,4 @@
-# StatisticsCourse
+# Experimental Design
 
 以下為各作業、報告文字檔
 * [HW_Chap3](https://drive.google.com/open?id=1HVetTSqIogAx297cxdYRcelY-dmZVQF3)
