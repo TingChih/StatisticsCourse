@@ -1,1 +1,1 @@
-# All Statistics Course Assignments using R
+# Statistics Course Assignments using R
